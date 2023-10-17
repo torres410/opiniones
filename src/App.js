@@ -15,7 +15,7 @@ function App() {
           imagen='emma'
           cargo='Ingeniera de software'
           empresa='Spotify'
-          testimonio='Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).'
+          testimonio='Mi experiencia en Spotify ha sido increíblemente enriquecedora. Trabajar en la intersección de la tecnología y la música ha sido un desafío emocionante y gratificante.'
         />
 
         <Testimonio 
@@ -24,7 +24,7 @@ function App() {
           imagen='shawn'
           cargo='Ingeniero de software'
           empresa='Amazon'
-          testimonio='Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).'
+          testimonio='La cultura de trabajo en Amazon es única y desafiante. Aquí se espera un alto nivel de excelencia, y eso impulsa a todos a dar lo mejor de sí mismos.'
         />
       </div>      
     </div>
