@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/opiniones/build/static/css/main.2b237f1a.css",
+    "main.js": "/opiniones/build/static/js/main.448a3899.js",
+    "static/media/testimonio-isabella.jpg": "/opiniones/build/static/media/testimonio-isabella.8c2e2b710a67ef31c9ef.jpg",
+    "static/media/testimonio-shawn.jpg": "/opiniones/build/static/media/testimonio-shawn.a98c9cfe6829dfb5ad63.jpg",
+    "static/media/testimonio-emma.jpg": "/opiniones/build/static/media/testimonio-emma.61620b30408280489c67.jpg",
+    "static/media/testimonio-mateo.jpg": "/opiniones/build/static/media/testimonio-mateo.43e1c6afb7882707f7d2.jpg",
+    "index.html": "/opiniones/build/index.html",
+    "main.2b237f1a.css.map": "/opiniones/build/static/css/main.2b237f1a.css.map",
+    "main.448a3899.js.map": "/opiniones/build/static/js/main.448a3899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b237f1a.css",
+    "static/js/main.448a3899.js"
+  ]
+}
