@@ -26,6 +26,24 @@ function App() {
           empresa='Amazon'
           testimonio='La cultura de trabajo en Amazon es única y desafiante. Aquí se espera un alto nivel de excelencia, y eso impulsa a todos a dar lo mejor de sí mismos.'
         />
+
+        <Testimonio 
+          nombre='Isabella Smith'
+          pais='Francia'
+          imagen='isabella'
+          cargo='Desarrolladora de videojuegos'
+          empresa='Ubisoft'
+          testimonio='Como desarrolladora de videojuegos en Ubisoft, he tenido la oportunidad de ser parte de un equipo apasionado y creativo que trabaja en la creación de experiencias de entretenimiento únicas.'
+        />
+
+        <Testimonio 
+          nombre='Mateo Fernández'
+          pais='España'
+          imagen='mateo'
+          cargo='Programador Senior'
+          empresa='Glovo'
+          testimonio='La escala de Glovo es impresionante. Saber que nuestras soluciones tecnológicas impactan la vida cotidiana de mil de personas en múltiples ciudades en todo el mundo es un estímulo constante.'
+        />
       </div>      
     </div>
   );
