@@ -34,3 +34,13 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+@media (max-width: 640px) {
+    h1 {
+    max-width: 900px;
+    font-size: 1.0em;
+    }
+    .App {
+        min-width: 50px;
+    }
+}

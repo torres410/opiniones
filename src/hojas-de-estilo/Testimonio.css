@@ -36,3 +36,28 @@
     font-size: 1.1 rem;
     text-align: justify;
 }
+
+@media (max-width: 640px) {
+    .contenedor-testimonio {
+        width: 390px;
+        height: 130px;
+        margin: 10px 10px 40px;
+    }
+    .contenedor-texto-testimonio {
+        padding: 3%;
+        font-weight: 500;
+        line-height: 90%;
+    }
+    .nombre-testimonio {
+        font-size: 0.5rem;
+    }
+    .cargo-testimonio {
+        font-size: 0.5rem;
+        margin-top: 3px;
+        padding-bottom: 5px;
+    }
+    .texto-testimonio {
+        font-size: 0.4rem;
+        text-align: justify;
+    }
+}
